@@ -14,7 +14,7 @@ O Git Bash é um terminal extendido para otimizar o uso do Git.
 
 ## Objetos Fundamentais do Git
 
-- **Blobs - **são as "bolhas" que contém os metadados do objeto;
+- **Blobs - ** são as "bolhas" que contém os metadados do objeto;
 
 - **Tree -** são as "árvores", armazena os blobs e também contém metadados. É ela quem monta toda a estrutura de localização do arquivo. Pode apontar para blobs ou para tree;
 
@@ -53,7 +53,7 @@ O Git Bash é um terminal extendido para otimizar o uso do Git.
 
 É uma plataforma on line que permite a criação e hospedagem de repositórios. Além disso é possível colaborar com a criação de códigos abertos de software, interagir com outros códigos e seguir outros programadores.
 
-**Benefícios - ** além de armazenar os arquivos na nuvem, funciona como uma rede social de programadores permitindo a exposição das suas criações (é a vitrine do seu trabalho), a possibilidade de interação com outros códigos, entre outras. 
+**Benefícios -** além de armazenar os arquivos na nuvem, funciona como uma rede social de programadores permitindo a exposição das suas criações (é a vitrine do seu trabalho), a possibilidade de interação com outros códigos, entre outras. 
 
 
 
